@@ -39,7 +39,3 @@ Elementos fundamentales del Lenguaje de programación Java y sus herramientas pa
    ```bash
    mvn spring-boot:run
    ```
-
-### Documentación API
-
-La documentación de la API está disponible en:
