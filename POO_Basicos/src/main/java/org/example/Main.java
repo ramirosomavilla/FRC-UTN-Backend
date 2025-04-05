@@ -63,7 +63,7 @@ public class Main {
         }
 
         private static void enterVehicleSimulator(Scanner scanner) {
-                Vehicle vehicle = null;
+                Vehicle vehicle;
 
                 while (true) {
                         System.out.println();
@@ -144,7 +144,7 @@ public class Main {
                                                 }
                                                 break;
                                         case 6:
-                                                System.out.println(vehicle.toString());
+                                                System.out.println(vehicle);
                                                 break;
                                         default:
                                                 System.out.println("Invalid action.");
