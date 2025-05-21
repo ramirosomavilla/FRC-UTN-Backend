@@ -1,0 +1,56 @@
+CAPACITACION_ID,EMPLEADO_ID,EMPLEADO_NOMBRE,CURSO_ID,CURSO_NOMBRE,AREA_TEMATICA,FECHA_CAPACITACION,DURACION_HORAS,CALIFICACION_FINAL,ESTADO
+1,1,Buenaventura de Bonet,5,Análisis Financiero,Finanzas,2024-08-08,6,7,Completado
+2,4,Alejandra Andrés Bueno,9,Branding Corporativo,Marketing,2023-10-24,4,10,Completado
+3,1,José Antonio de Flor,2,Liderazgo Transformacional,Recursos Humanos,2024-11-14,6,7,Completado
+4,1,Hortensia de Sanchez,9,Branding Corporativo,Marketing,2024-08-07,6,10,Completado
+5,15,Sandalio Agudo-Cuervo,10,Contabilidad para No Contadores,Finanzas,2024-10-31,8,6,En curso
+6,6,Evita Lobo Cortés,7,Comunicación Efectiva,Recursos Humanos,2023-10-22,8,8,Completado
+7,11,Aroa Bru Pinto,2,Liderazgo Transformacional,Recursos Humanos,2023-07-22,4,9,Completado
+8,12,Soraya Núñez Lamas,10,Contabilidad para No Contadores,Finanzas,2025-01-23,8,6,En curso
+9,18,Pánfilo Segovia Casanovas,2,Liderazgo Transformacional,Recursos Humanos,2025-04-23,10,6,Completado
+10,20,Ani Marcos Pardo,6,Introducción a la Ciberseguridad,Tecnología,2024-07-29,12,7,En curso
+11,2,Pastor Baños,4,Estrategias de Marketing Digital,Marketing,2023-06-12,8,6,En curso
+12,4,Rolando del Bernal,7,Comunicación Efectiva,Recursos Humanos,2025-03-02,8,9,Completado
+13,12,Toribio de Pinto,3,Gestión de Inventarios,Logística,2023-12-09,8,8,Completado
+14,9,Mercedes Patiño Cánovas,2,Liderazgo Transformacional,Recursos Humanos,2024-02-19,12,7,Completado
+15,8,Clementina Lasa Bellido,3,Gestión de Inventarios,Logística,2024-08-23,10,9,Completado
+16,18,Juanito Hierro Cárdenas,4,Estrategias de Marketing Digital,Marketing,2024-05-01,8,6,Completado
+17,2,Elba Gimenez Morata,6,Introducción a la Ciberseguridad,Tecnología,2025-02-20,10,8,Completado
+18,19,Darío Antón Moles,6,Introducción a la Ciberseguridad,Tecnología,2024-03-14,6,9,Completado
+19,15,Anacleto Galván-Miranda,3,Gestión de Inventarios,Logística,2023-10-20,8,7,Completado
+20,18,Gertrudis Segarra Clavero,9,Branding Corporativo,Marketing,2023-11-29,8,10,Completado
+21,19,Duilio Jódar Romero,7,Comunicación Efectiva,Recursos Humanos,2025-04-04,8,7,Abandonado
+22,5,Gloria Paredes-Gimenez,9,Branding Corporativo,Marketing,2023-08-23,10,6,En curso
+23,4,Leire Bou,3,Gestión de Inventarios,Logística,2024-12-15,6,9,Completado
+24,13,Tito Canals Coronado,7,Comunicación Efectiva,Recursos Humanos,2024-09-06,12,9,Completado
+25,18,Ruy Roca Bartolomé,1,SCRUM Fundamentals,Tecnología,2024-03-01,4,10,En curso
+26,11,María Solé Ángel,2,Liderazgo Transformacional,Recursos Humanos,2023-11-19,8,9,Completado
+27,1,Teodora de Carbó,5,Análisis Financiero,Finanzas,2024-10-18,12,7,Completado
+28,4,Pili del Nieto,5,Análisis Financiero,Finanzas,2023-08-02,12,10,Completado
+29,12,Isaac Cayetano Santiago Acero,3,Gestión de Inventarios,Logística,2024-11-18,12,10,Abandonado
+30,20,Josué Escalona-Vera,6,Introducción a la Ciberseguridad,Tecnología,2025-04-15,10,6,Completado
+31,12,Trinidad Martín Vera,5,Análisis Financiero,Finanzas,2024-08-23,6,6,Completado
+32,19,Carmelo Pereira,2,Liderazgo Transformacional,Recursos Humanos,2024-12-20,4,9,En curso
+33,18,Julián Abascal Morante,3,Gestión de Inventarios,Logística,2024-05-21,6,9,Abandonado
+34,6,Basilio Parejo Meléndez,5,Análisis Financiero,Finanzas,2023-11-09,12,10,Completado
+35,7,Dionisio Bermúdez Boada,9,Branding Corporativo,Marketing,2024-11-26,6,8,Completado
+36,12,Sabina Bayón Casas,8,Optimización de Rutas,Logística,2023-08-15,12,9,Completado
+37,8,Malena Dalmau Landa,2,Liderazgo Transformacional,Recursos Humanos,2024-06-20,8,6,Completado
+38,8,Ileana Cloe Font Mesa,10,Contabilidad para No Contadores,Finanzas,2024-03-12,6,6,Completado
+39,2,Isabel Villar Sanmiguel,4,Estrategias de Marketing Digital,Marketing,2023-08-09,4,6,En curso
+40,3,Daniel de Neira,9,Branding Corporativo,Marketing,2023-05-24,6,8,Completado
+41,7,Manola Grau-Giménez,9,Branding Corporativo,Marketing,2023-05-13,6,10,Completado
+42,8,Paulino Barral Granados,8,Optimización de Rutas,Logística,2023-06-29,10,7,Completado
+43,14,Tito Murillo Belda,6,Introducción a la Ciberseguridad,Tecnología,2024-06-10,10,9,Completado
+44,2,Emilio del Gargallo,2,Liderazgo Transformacional,Recursos Humanos,2024-06-29,4,9,En curso
+45,4,Porfirio Suárez Herrero,4,Estrategias de Marketing Digital,Marketing,2025-01-06,6,7,Completado
+46,5,Roxana Ramírez Falcón,7,Comunicación Efectiva,Recursos Humanos,2023-07-20,6,8,Completado
+47,3,Narciso Rosa Pablo,8,Optimización de Rutas,Logística,2024-04-01,12,6,Completado
+48,18,Josefina Balaguer Cabello,1,SCRUM Fundamentals,Tecnología,2023-06-24,4,7,Completado
+49,16,Pascuala Nicolau Canales,8,Optimización de Rutas,Logística,2023-11-17,6,9,Abandonado
+50,6,Claudio Sanabria,7,Comunicación Efectiva,Recursos Humanos,2023-08-24,4,9,Completado
+51,15,Casandra Lopez Sevillano,5,Análisis Financiero,Finanzas,2023-11-18,10,10,Completado
+52,16,Ismael Cabañas Ayuso,3,Gestión de Inventarios,Logística,2024-09-25,6,8,Completado
+53,2,Socorro de Bueno,10,Contabilidad para No Contadores,Finanzas,2025-04-26,12,6,En curso
+54,2,Celso del Torralba,1,SCRUM Fundamentals,Tecnología,2024-05-15,12,9,Completado
+55,17,Toni Quero,3,Gestión de Inventarios,Logística,2025-04-07,4,10,Completado

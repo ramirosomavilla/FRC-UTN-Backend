@@ -1,0 +1,43 @@
+PARTIDA_ID,JUGADOR_ID,JUGADOR_NOMBRE,JUEGO_ID,JUEGO_NOMBRE,GENERO,FECHA_PARTIDA,DURACION_MINUTOS,PUNTUACION,ESTADO
+1,103,Lucía Pérez,205,League of Legends,Acción,2025-03-11,121,877,Abandonada
+2,105,Elena Suárez,203,Call of Duty,Acción,2025-03-17,82,690,Completada
+3,101,Ana Torres,206,The Sims 4,Simulación,2025-03-04,136,771,Completada
+4,101,Ana Torres,205,League of Legends,Acción,2025-03-12,81,985,En curso
+5,106,Sofía Ramírez,207,Hades,Rol,2025-03-11,180,739,En curso
+6,105,Elena Suárez,202,Minecraft,Aventura,2025-03-27,171,975,Abandonada
+7,101,Ana Torres,207,Hades,Rol,2025-03-18,175,685,En curso
+8,106,Sofía Ramírez,201,FIFA 24,Deportes,2025-03-25,115,699,En curso
+9,104,Martín Gómez,206,The Sims 4,Simulación,2025-03-18,43,465,Abandonada
+10,101,Ana Torres,207,Hades,Rol,2025-03-11,160,629,Abandonada
+11,107,Tomás Díaz,206,The Sims 4,Simulación,2025-03-19,35,666,Abandonada
+12,104,Martín Gómez,203,Call of Duty,Acción,2025-03-06,144,484,En curso
+13,106,Sofía Ramírez,201,FIFA 24,Deportes,2025-03-14,133,516,Completada
+14,103,Lucía Pérez,202,Minecraft,Aventura,2025-03-05,105,817,Abandonada
+15,103,Lucía Pérez,205,League of Legends,Acción,2025-03-14,112,467,Completada
+16,103,Lucía Pérez,205,League of Legends,Acción,2025-03-27,114,513,Abandonada
+17,101,Ana Torres,203,Call of Duty,Acción,2025-03-10,96,491,Completada
+18,103,Lucía Pérez,202,Minecraft,Aventura,2025-03-06,66,986,En curso
+19,102,Carlos Méndez,207,Hades,Rol,2025-03-27,30,644,Completada
+20,107,Tomás Díaz,204,Age of Empires II,Estrategia,2025-03-02,20,693,En curso
+21,102,Carlos Méndez,206,The Sims 4,Simulación,2025-03-18,49,809,Abandonada
+22,104,Martín Gómez,201,FIFA 24,Deportes,2025-03-02,150,904,Abandonada
+23,101,Ana Torres,201,FIFA 24,Deportes,2025-03-09,37,687,Completada
+24,107,Tomás Díaz,207,Hades,Rol,2025-03-08,119,568,Abandonada
+25,103,Lucía Pérez,203,Call of Duty,Acción,2025-03-26,126,854,En curso
+26,101,Ana Torres,207,Hades,Rol,2025-03-22,141,814,En curso
+27,103,Lucía Pérez,202,Minecraft,Aventura,2025-03-13,158,741,En curso
+28,104,Martín Gómez,206,The Sims 4,Simulación,2025-03-08,111,434,Abandonada
+29,106,Sofía Ramírez,207,Hades,Rol,2025-03-23,72,960,Abandonada
+30,102,Carlos Méndez,207,Hades,Rol,2025-03-09,130,828,En curso
+31,105,Elena Suárez,203,Call of Duty,Acción,2025-03-03,109,624,Completada
+32,103,Lucía Pérez,207,Hades,Rol,2025-03-04,149,995,Abandonada
+33,103,Lucía Pérez,201,FIFA 24,Deportes,2025-03-01,81,793,Completada
+34,107,Tomás Díaz,203,Call of Duty,Acción,2025-03-08,152,493,En curso
+35,105,Elena Suárez,204,Age of Empires II,Estrategia,2025-03-15,114,945,Completada
+36,103,Lucía Pérez,205,League of Legends,Acción,2025-03-09,23,518,Abandonada
+37,105,Elena Suárez,204,Age of Empires II,Estrategia,2025-03-05,72,929,Completada
+38,106,Sofía Ramírez,203,Call of Duty,Acción,2025-03-07,150,413,En curso
+39,101,Ana Torres,205,League of Legends,Acción,2025-03-10,139,537,En curso
+40,107,Tomás Díaz,201,FIFA 24,Deportes,2025-03-03,139,530,Abandonada
+41,103,Lucía Pérez,205,League of Legends,Acción,2025-03-10,132,820,En curso
+42,104,Martín Gómez,201,FIFA 24,Deportes,2025-03-05,114,985,En curso

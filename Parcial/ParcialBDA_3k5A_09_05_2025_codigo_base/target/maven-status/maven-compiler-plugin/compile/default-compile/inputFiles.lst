@@ -1,0 +1,8 @@
+/Users/ramirosomavilla/Documents/2 - Facultad/Backend/Parcial/ParcialBDA_3k5A_09_05_2025_codigo_base/src/main/java/ar/edu/utn/frc/backend/Main.java
+/Users/ramirosomavilla/Documents/2 - Facultad/Backend/Parcial/ParcialBDA_3k5A_09_05_2025_codigo_base/src/main/java/ar/edu/utn/frc/backend/entities/Capacitacion.java
+/Users/ramirosomavilla/Documents/2 - Facultad/Backend/Parcial/ParcialBDA_3k5A_09_05_2025_codigo_base/src/main/java/ar/edu/utn/frc/backend/entities/Curso.java
+/Users/ramirosomavilla/Documents/2 - Facultad/Backend/Parcial/ParcialBDA_3k5A_09_05_2025_codigo_base/src/main/java/ar/edu/utn/frc/backend/entities/Empleado.java
+/Users/ramirosomavilla/Documents/2 - Facultad/Backend/Parcial/ParcialBDA_3k5A_09_05_2025_codigo_base/src/main/java/ar/edu/utn/frc/backend/repositories/CapacitacionRepository.java
+/Users/ramirosomavilla/Documents/2 - Facultad/Backend/Parcial/ParcialBDA_3k5A_09_05_2025_codigo_base/src/main/java/ar/edu/utn/frc/backend/repositories/CursoRepository.java
+/Users/ramirosomavilla/Documents/2 - Facultad/Backend/Parcial/ParcialBDA_3k5A_09_05_2025_codigo_base/src/main/java/ar/edu/utn/frc/backend/repositories/EmpleadoRepository.java
+/Users/ramirosomavilla/Documents/2 - Facultad/Backend/Parcial/ParcialBDA_3k5A_09_05_2025_codigo_base/src/main/java/ar/edu/utn/frc/backend/services/CapacitacionService.java

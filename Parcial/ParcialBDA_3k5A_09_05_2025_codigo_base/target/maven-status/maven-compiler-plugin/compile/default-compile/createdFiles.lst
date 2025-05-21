@@ -1,0 +1,8 @@
+ar/edu/utn/frc/backend/entities/Capacitacion.class
+ar/edu/utn/frc/backend/repositories/CapacitacionRepository.class
+ar/edu/utn/frc/backend/entities/Empleado.class
+ar/edu/utn/frc/backend/Main.class
+ar/edu/utn/frc/backend/services/CapacitacionService.class
+ar/edu/utn/frc/backend/entities/Curso.class
+ar/edu/utn/frc/backend/repositories/EmpleadoRepository.class
+ar/edu/utn/frc/backend/repositories/CursoRepository.class
